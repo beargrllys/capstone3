@@ -1,0 +1,8 @@
+127.0.0.1 localhost localhost.local.hass.io
+172.30.32.2 hassio hassio.local.hass.io supervisor supervisor.local.hass.io
+172.30.32.1 homeassistant homeassistant.local.hass.io home-assistant home-assistant.local.hass.io
+172.30.32.3 dns dns.local.hass.io
+172.30.32.6 observer observer.local.hass.io
+172.30.33.0 core-mosquitto core-mosquitto.local.hass.io
+172.30.33.1 core-configurator core-configurator.local.hass.io
+172.30.33.2 7ad98f9c-zigbee2mqtt 7ad98f9c-zigbee2mqtt.local.hass.io

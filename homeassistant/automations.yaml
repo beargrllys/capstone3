@@ -1,0 +1,30 @@
+- id: '1620801509285'
+  alias: relay_on
+  description: ''
+  trigger:
+  - platform: state
+    entity_id: binary_sensor.door_sensor_contact
+    to: 'off'
+    for: '1'
+  condition: []
+  action:
+  - type: turn_on
+    device_id: 1ca50c8d7b7ac04669d6404c91c58717
+    entity_id: switch.relay_sensor
+    domain: switch
+  mode: single
+- id: '1620801557280'
+  alias: relay_off
+  description: ''
+  trigger:
+  - platform: state
+    entity_id: binary_sensor.door_sensor_contact
+    to: 'on'
+    for: '5'
+  condition: []
+  action:
+  - type: turn_off
+    device_id: 1ca50c8d7b7ac04669d6404c91c58717
+    entity_id: switch.relay_sensor
+    domain: switch
+  mode: single

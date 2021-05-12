@@ -1,0 +1,77 @@
+{
+    "version": 1,
+    "key": "core.config_entries",
+    "data": {
+        "entries": [
+            {
+                "entry_id": "f23a9d55b433726a3020ff0d9d139632",
+                "version": 1,
+                "domain": "hassio",
+                "title": "Supervisor",
+                "data": {},
+                "options": {},
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "source": "system",
+                "connection_class": "local_push",
+                "unique_id": "hassio",
+                "disabled_by": null
+            },
+            {
+                "entry_id": "b2edcacc77d16b1279ac1a14c5eab710",
+                "version": 1,
+                "domain": "met",
+                "title": "Home",
+                "data": {
+                    "track_home": true
+                },
+                "options": {},
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "source": "onboarding",
+                "connection_class": "cloud_poll",
+                "unique_id": null,
+                "disabled_by": null
+            },
+            {
+                "entry_id": "bcab1d2a251528e2e6255fcabf15ace8",
+                "version": 1,
+                "domain": "rpi_power",
+                "title": "Raspberry Pi Power Supply Checker",
+                "data": {},
+                "options": {},
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "source": "onboarding",
+                "connection_class": "local_poll",
+                "unique_id": null,
+                "disabled_by": null
+            },
+            {
+                "entry_id": "1e8e981bb1b60749b715033ad366ec1b",
+                "version": 1,
+                "domain": "mqtt",
+                "title": "Mosquitto broker",
+                "data": {
+                    "broker": "core-mosquitto",
+                    "port": 1883,
+                    "username": "homeassistant",
+                    "password": "ahghaeD4vie2qua2Equup0ohl9ini7oleipohngohyaiCheeJ9thookauza8aipi",
+                    "protocol": "3.1.1",
+                    "discovery": true
+                },
+                "options": {},
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "source": "hassio",
+                "connection_class": "local_push",
+                "unique_id": null,
+                "disabled_by": null
+            }
+        ]
+    }
+}

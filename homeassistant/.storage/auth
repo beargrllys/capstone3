@@ -1,0 +1,103 @@
+{
+    "version": 1,
+    "key": "auth",
+    "data": {
+        "users": [
+            {
+                "id": "d07303007922433b87eef7b1f89ed780",
+                "group_ids": [
+                    "system-admin"
+                ],
+                "is_owner": false,
+                "is_active": true,
+                "name": "Hass.io",
+                "system_generated": true
+            },
+            {
+                "id": "a12cdfe62fee46608eafcf65f3210814",
+                "group_ids": [
+                    "system-admin"
+                ],
+                "is_owner": true,
+                "is_active": true,
+                "name": "dongjin",
+                "system_generated": false
+            }
+        ],
+        "groups": [
+            {
+                "id": "system-admin",
+                "name": "Administrators"
+            },
+            {
+                "id": "system-users",
+                "name": "Users"
+            },
+            {
+                "id": "system-read-only",
+                "name": "Read Only"
+            }
+        ],
+        "credentials": [
+            {
+                "id": "56707ea45afb425fb959867c3fed2dcf",
+                "user_id": "a12cdfe62fee46608eafcf65f3210814",
+                "auth_provider_type": "homeassistant",
+                "auth_provider_id": null,
+                "data": {
+                    "username": "dongjin"
+                }
+            }
+        ],
+        "refresh_tokens": [
+            {
+                "id": "c6b23832764e495b975941427b61f39c",
+                "user_id": "d07303007922433b87eef7b1f89ed780",
+                "client_id": null,
+                "client_name": null,
+                "client_icon": null,
+                "token_type": "system",
+                "created_at": "2021-05-12T05:17:43.647728+00:00",
+                "access_token_expiration": 1800.0,
+                "token": "0b828499fe584b9de76ccf932e0c1fa74761fbad1d5b66761c71a52f0adf0e3edbd49a206b7c8bd26ea459a6f723c4eac1e99cbef6251e05b97580949427e252",
+                "jwt_key": "c9d12220efe73be7536841c20bf54b03c3a7025a333ce213dddbbf1c3860350dcf3af214fd0aefba53388d6f0987d50d1681f9d105cc1c90f27a23b4c3ca8876",
+                "last_used_at": "2021-05-12T08:47:30.229324+00:00",
+                "last_used_ip": "172.30.32.2",
+                "credential_id": null,
+                "version": "2021.5.2"
+            },
+            {
+                "id": "92544da636944843ae3eff4dce93645a",
+                "user_id": "a12cdfe62fee46608eafcf65f3210814",
+                "client_id": "http://192.168.0.167:8123/",
+                "client_name": null,
+                "client_icon": null,
+                "token_type": "normal",
+                "created_at": "2021-05-12T05:19:05.913385+00:00",
+                "access_token_expiration": 1800.0,
+                "token": "3c280da94238ea82bf0919cbf69de30b6e09dc93030f791ac0a94564be181934df40575be148c7b4626b0253e320633150653a79907ab9e07444f442b35375b2",
+                "jwt_key": "f086c8aac73c05f0fa2869505b452dee93efe0a5a2945777f8bba3d33af36e58c8bcd623e697813e9d823781a0239024b205be99f62b8dfea040dbdf29e55dc8",
+                "last_used_at": "2021-05-12T09:05:06.788566+00:00",
+                "last_used_ip": "192.168.0.167",
+                "credential_id": "56707ea45afb425fb959867c3fed2dcf",
+                "version": "2021.5.2"
+            },
+            {
+                "id": "e8e5aa1b7f7a4d9f90ed5566a5db9f1b",
+                "user_id": "a12cdfe62fee46608eafcf65f3210814",
+                "client_id": "http://192.168.0.167:8123/",
+                "client_name": null,
+                "client_icon": null,
+                "token_type": "normal",
+                "created_at": "2021-05-12T06:07:25.981874+00:00",
+                "access_token_expiration": 1800.0,
+                "token": "1efbb00a31a30d480f252ee987c25223e790c0e79483609753d3203e734540b9d68ca8f22995a92616ca437483309cded269aa8b3731fe6de9e339a97da2ca85",
+                "jwt_key": "421dce1ddc38387763dd8ff7cbdc79bdead5e443eb375032d2e896c737b5e7420dd1f7da9c4e407c683280ef39f67d47c2ce8fd8739dab3ac3b255663c991285",
+                "last_used_at": "2021-05-12T06:38:26.161158+00:00",
+                "last_used_ip": "192.168.0.29",
+                "credential_id": "56707ea45afb425fb959867c3fed2dcf",
+                "version": "2021.5.2"
+            }
+        ]
+    }
+}

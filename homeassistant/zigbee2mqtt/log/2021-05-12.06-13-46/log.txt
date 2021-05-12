@@ -1,0 +1,9 @@
+error 2021-05-12 06:16:00: Failed to interview '0x00158d0001dff608', device has not successfully been paired
+warn  2021-05-12 06:16:07: Received message from unsupported device with Zigbee model 'undefined' and manufacturer name 'undefined'
+warn  2021-05-12 06:16:07: Please see: https://www.zigbee2mqtt.io/how_tos/how_to_support_new_devices.html.
+warn  2021-05-12 06:16:07: Received message from unsupported device with Zigbee model 'undefined' and manufacturer name 'undefined'
+warn  2021-05-12 06:16:07: Please see: https://www.zigbee2mqtt.io/how_tos/how_to_support_new_devices.html.
+warn  2021-05-12 06:16:07: Received message from unsupported device with Zigbee model 'undefined' and manufacturer name 'undefined'
+warn  2021-05-12 06:16:07: Please see: https://www.zigbee2mqtt.io/how_tos/how_to_support_new_devices.html.
+warn  2021-05-12 06:16:07: Received message from unsupported device with Zigbee model 'undefined' and manufacturer name 'undefined'
+warn  2021-05-12 06:16:07: Please see: https://www.zigbee2mqtt.io/how_tos/how_to_support_new_devices.html.

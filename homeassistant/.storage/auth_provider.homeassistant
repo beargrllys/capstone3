@@ -1,0 +1,12 @@
+{
+    "version": 1,
+    "key": "auth_provider.homeassistant",
+    "data": {
+        "users": [
+            {
+                "username": "dongjin",
+                "password": "JDJiJDEyJHpQMm4yRXdTOXZDWnoySXMzZHZ0Y2VtODFneERERHhWc0FRd2ZuL0pRNTNTSHJCeURybmFD"
+            }
+        ]
+    }
+}

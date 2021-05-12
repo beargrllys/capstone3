@@ -1,0 +1,5 @@
+{
+  "version": "2021.04.1",
+  "image": "homeassistant/armv7-hassio-cli",
+  "access_token": "cbb27f0347f386b6a55c9a5f265849d89ebe084fae2ffe647c2eea3b26d33486022b16680f733b48f3221fb2a6193d07c9a18c83c1a74c6f"
+}

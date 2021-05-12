@@ -1,0 +1,14 @@
+{
+    "version": 2,
+    "key": "person",
+    "data": {
+        "items": [
+            {
+                "name": "dongjin",
+                "user_id": "a12cdfe62fee46608eafcf65f3210814",
+                "device_trackers": [],
+                "id": "dongjin"
+            }
+        ]
+    }
+}

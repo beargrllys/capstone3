@@ -1,0 +1,104 @@
+{
+    "version": 1,
+    "key": "core.restore_state",
+    "data": [
+        {
+            "state": {
+                "entity_id": "person.dongjin",
+                "state": "unknown",
+                "attributes": {
+                    "editable": false,
+                    "id": "dongjin",
+                    "user_id": "a12cdfe62fee46608eafcf65f3210814",
+                    "friendly_name": "dongjin"
+                },
+                "last_changed": "2021-05-12T08:47:24.983446+00:00",
+                "last_updated": "2021-05-12T08:47:33.290438+00:00",
+                "context": {
+                    "id": "cff057edc8576f34788bcdd9258c5b2a",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-05-12T09:02:33.293165+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "automation.saeroun_jadonghwa",
+                "state": "on",
+                "attributes": {
+                    "last_triggered": "2021-05-12T07:47:00.208645+00:00",
+                    "mode": "single",
+                    "current": 0,
+                    "id": "1620801509285",
+                    "friendly_name": "relay_on"
+                },
+                "last_changed": "2021-05-12T08:47:30.534514+00:00",
+                "last_updated": "2021-05-12T08:47:30.534514+00:00",
+                "context": {
+                    "id": "4e58c7718f6af598b1b03eecc9e3bd60",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-05-12T09:02:33.293165+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "automation.relay_off",
+                "state": "on",
+                "attributes": {
+                    "last_triggered": "2021-05-12T08:48:08.624022+00:00",
+                    "mode": "single",
+                    "current": 0,
+                    "id": "1620801557280",
+                    "friendly_name": "relay_off"
+                },
+                "last_changed": "2021-05-12T08:47:30.535353+00:00",
+                "last_updated": "2021-05-12T08:48:08.627203+00:00",
+                "context": {
+                    "id": "fc1e3ec47fa6348fc028ddc7a5a82364",
+                    "parent_id": "cc1f2148f521d8672dc174da74d33130",
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-05-12T09:02:33.293165+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "switch.relay_sensor",
+                "state": "off",
+                "attributes": {
+                    "linkquality": 94,
+                    "state": "OFF",
+                    "friendly_name": "relay_sensor"
+                },
+                "last_changed": "2021-05-12T08:47:32.971840+00:00",
+                "last_updated": "2021-05-12T09:01:55.394160+00:00",
+                "context": {
+                    "id": "a461e170129911fccf04452a63640fbd",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-05-12T09:02:33.293165+00:00"
+        },
+        {
+            "state": {
+                "entity_id": "switch.0x00124b001b765502",
+                "state": "off",
+                "attributes": {
+                    "friendly_name": "0x00124b001b765502"
+                },
+                "last_changed": "2021-05-12T06:21:57.978901+00:00",
+                "last_updated": "2021-05-12T06:35:06.858084+00:00",
+                "context": {
+                    "id": "ba0da5b089a1cabb5ac510dbb9a1fbef",
+                    "parent_id": null,
+                    "user_id": null
+                }
+            },
+            "last_seen": "2021-05-12T06:35:07.100205+00:00"
+        }
+    ]
+}

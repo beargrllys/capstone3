@@ -1,0 +1,22 @@
+{
+    "0x00158d0001dff608": {
+        "voltage": 2975,
+        "battery": 86,
+        "contact": false,
+        "temperature": 29
+    },
+    "0x00124b001b765502": {
+        "state": "OFF"
+    },
+    "0x00158d0006d0bf83": {
+        "voltage": 3075,
+        "battery": 100,
+        "angle": 39,
+        "angle_x": 3,
+        "angle_y": -1,
+        "angle_z": 87,
+        "angle_x_absolute": 87,
+        "angle_y_absolute": 91,
+        "strength": 5
+    }
+}

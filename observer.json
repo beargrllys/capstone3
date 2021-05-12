@@ -1,0 +1,5 @@
+{
+  "version": "2020.10.1",
+  "image": "homeassistant/armv7-hassio-observer",
+  "access_token": "5d9124c0a53a93e60e2b67ed4e94b1324e4fbdc293749837be2bf63781ebba30b046f7716a7c035d60668f0b7b0f1dadf210c8c6ffe953e1"
+}

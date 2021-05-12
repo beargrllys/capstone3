@@ -1,0 +1,14 @@
+{
+  "boot": true,
+  "audio_input": "None",
+  "wait_boot": 600,
+  "uuid": "fc4930e7cb364f97866e660ca5cab51e",
+  "port": 8123,
+  "watchdog": true,
+  "audio_output": "None",
+  "ssl": false,
+  "version": "2021.5.2",
+  "image": "homeassistant/raspberrypi4-homeassistant",
+  "access_token": "2c4ac673f06127ff8949b106e2c48601a3d9faf2ea5ffea6eddb72b499d8475debf104172412e18680a37965bbe5257b32fdd950b99c18b3",
+  "refresh_token": "0b828499fe584b9de76ccf932e0c1fa74761fbad1d5b66761c71a52f0adf0e3edbd49a206b7c8bd26ea459a6f723c4eac1e99cbef6251e05b97580949427e252"
+}

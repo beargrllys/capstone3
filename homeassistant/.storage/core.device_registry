@@ -1,0 +1,199 @@
+{
+    "version": 1,
+    "key": "core.device_registry",
+    "data": {
+        "devices": [
+            {
+                "config_entries": [
+                    "f23a9d55b433726a3020ff0d9d139632"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "hassio",
+                        "OS"
+                    ]
+                ],
+                "manufacturer": "Home Assistant",
+                "model": "Home Assistant Operating System",
+                "name": "Home Assistant Operating System",
+                "sw_version": null,
+                "entry_type": "service",
+                "id": "9618bd29519a0d64ea984742cf998a78",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null
+            },
+            {
+                "config_entries": [
+                    "b2edcacc77d16b1279ac1a14c5eab710"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "met"
+                    ]
+                ],
+                "manufacturer": "Met.no",
+                "model": "Forecast",
+                "name": "Forecast",
+                "sw_version": null,
+                "entry_type": "service",
+                "id": "d4c49bf4b17d4a7fb46bf20c80d51161",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null
+            },
+            {
+                "config_entries": [
+                    "f23a9d55b433726a3020ff0d9d139632"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "hassio",
+                        "core_mosquitto"
+                    ]
+                ],
+                "manufacturer": "core",
+                "model": "Home Assistant Add-on",
+                "name": "Mosquitto broker",
+                "sw_version": "5.1.1",
+                "entry_type": "service",
+                "id": "32198a196679bf7a873c7c55060149e7",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null
+            },
+            {
+                "config_entries": [
+                    "f23a9d55b433726a3020ff0d9d139632"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "hassio",
+                        "core_configurator"
+                    ]
+                ],
+                "manufacturer": "core",
+                "model": "Home Assistant Add-on",
+                "name": "File editor",
+                "sw_version": "5.3.0",
+                "entry_type": "service",
+                "id": "c22725c51b40be5301de3d3ed802011d",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null
+            },
+            {
+                "config_entries": [
+                    "f23a9d55b433726a3020ff0d9d139632"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "hassio",
+                        "7ad98f9c_zigbee2mqtt"
+                    ]
+                ],
+                "manufacturer": "7ad98f9c",
+                "model": "Home Assistant Add-on",
+                "name": "Zigbee2mqtt",
+                "sw_version": "1.18.1-1",
+                "entry_type": "service",
+                "id": "9c6b5c6a577429c7cc6a66e853f98c28",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null
+            },
+            {
+                "config_entries": [
+                    "1e8e981bb1b60749b715033ad366ec1b"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "mqtt",
+                        "zigbee2mqtt_0x00158d0006d0bf83"
+                    ]
+                ],
+                "manufacturer": "Xiaomi",
+                "model": "Aqara vibration sensor (DJT11LM)",
+                "name": "0x00158d0006d0bf83",
+                "sw_version": "Zigbee2MQTT 1.18.1",
+                "entry_type": null,
+                "id": "74383e7a19bb49a0b24167e99e1abfc8",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null
+            },
+            {
+                "config_entries": [
+                    "1e8e981bb1b60749b715033ad366ec1b"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "mqtt",
+                        "zigbee2mqtt_0x00124b001b765502"
+                    ]
+                ],
+                "manufacturer": "SONOFF",
+                "model": "Zigbee smart switch (BASICZBR3)",
+                "name": "relay_sensor",
+                "sw_version": "Zigbee2MQTT 1.18.1",
+                "entry_type": null,
+                "id": "1ca50c8d7b7ac04669d6404c91c58717",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null
+            },
+            {
+                "config_entries": [
+                    "1e8e981bb1b60749b715033ad366ec1b"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "mqtt",
+                        "zigbee2mqtt_0x00158d0001dff608"
+                    ]
+                ],
+                "manufacturer": "Xiaomi",
+                "model": "Aqara door & window contact sensor (MCCGQ11LM)",
+                "name": "door_sensor",
+                "sw_version": "Zigbee2MQTT 1.18.1",
+                "entry_type": null,
+                "id": "dc46bcdc59d92630b65f42e346eec6c3",
+                "via_device_id": null,
+                "area_id": null,
+                "name_by_user": null,
+                "disabled_by": null
+            }
+        ],
+        "deleted_devices": [
+            {
+                "config_entries": [
+                    "1e8e981bb1b60749b715033ad366ec1b"
+                ],
+                "connections": [],
+                "identifiers": [
+                    [
+                        "mqtt",
+                        "zigbee2mqtt_0x00158d0006c4ac37"
+                    ]
+                ],
+                "id": "29c4e67eb726ee88ad3957442c1a62e0",
+                "orphaned_timestamp": null
+            }
+        ]
+    }
+}

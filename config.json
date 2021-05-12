@@ -1,0 +1,16 @@
+{
+  "content_trust": true,
+  "debug_block": false,
+  "diagnostics": false,
+  "force_security": false,
+  "version": "2021.04.3",
+  "addons_custom_list": [
+    "https://github.com/hassio-addons/repository",
+    "https://github.com/danielwelch/hassio-zigbee2mqtt"
+  ],
+  "debug": false,
+  "timezone": "UTC",
+  "logging": "info",
+  "wait_boot": 5,
+  "last_boot": "2021-05-12T08:45:42"
+}
